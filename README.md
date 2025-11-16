@@ -1,0 +1,5 @@
+- this is for a internship program
+- make a simple git repository
+- make a python file that print's something
+- change it in another branch and make a pull request
+- do a linear regression on some data
